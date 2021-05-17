@@ -33,3 +33,6 @@ Francesco Guarnaccia, Gabriella Buosi, Edoardo Monaco, Luca dalla Gassa, Laura S
 <p align="center">
     <img src="https://sites.les.univr.it/cybercrime/wp-content/uploads/2017/08/hate-speech.jpg" width="350" alt="accessibility text">
 </p>
+
+
+In this folder you can find the final report for the two groups combined: have fun!
