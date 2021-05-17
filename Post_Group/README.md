@@ -1,1 +1,1 @@
-Here we will add the readme file to use the code
+See the comments of each notebook to understand how to use them.
