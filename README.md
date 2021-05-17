@@ -35,4 +35,4 @@ Francesco Guarnaccia, Gabriella Buosi, Edoardo Monaco, Luca dalla Gassa, Laura S
 </p>
 
 
-In this folder you can find the final report for the two groups combined: have fun!
+In this [file](https://github.com/SalvatoreRomano1/net2020/blob/main/NetworkScience_HateSpeechGroups_report.pdf) you can find the final report for the two groups combined: have fun!
